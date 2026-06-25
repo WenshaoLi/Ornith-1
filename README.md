@@ -1,7 +1,5 @@
 # Ornith-1
 
-<img width="600px" src="assets/ornith_logo.png">
-
 <div align="center">
 <img src=assets/ornith_logo.png width="45%"/>
 </div>
